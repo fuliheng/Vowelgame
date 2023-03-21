@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Vowelgame'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7F5316F232249A8B64F893E969BBF12 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5EDB605AA09497BBFF474D3C52DF721 }}
           package: '*.jar'
