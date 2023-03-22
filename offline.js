@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1679450960,
+	"version": 1679468233,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,7 @@
 		"images/a_g2_finish-sheet0.png",
 		"images/a_g2_intro_bk-sheet0.png",
 		"images/scorepic-sheet0.png",
+		"images/timepic-sheet0.png",
 		"media/big.ogg",
 		"media/bike.ogg",
 		"media/bin.ogg",
